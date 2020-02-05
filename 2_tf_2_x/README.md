@@ -1,5 +1,5 @@
 # TensorFlow 2.x을 활용한 downstream task
-### 목표
+### Purpose
 - 케글에서 아직 많이 공유되지 않은 TensorFlow 2.x에 집중하여, TensorFlow 2.x를 활용한 연구/개발이 활성화될 수 있도록 촉진합니다.
 
 ### Competitions
@@ -8,8 +8,12 @@
   - 공유된 Notebook들을 리뷰하여 케글 환경 내에서 작동하는 팁과 한계를 얻고, 활용법을 익힐 수 있습니다.
   - 완료된 커널 리뷰는 [Just-Kaggle](https://github.com/Just-Kaggle/reviews)에 공유됩니다.
 
-### 유용한 code
-- [bert-for-tf2](https://github.com/kpe/bert-for-tf2/tree/master/bert]
+### Useful code
+- [TensorFlow Natural Language Processing Models](https://github.com/tensorflow/models/tree/master/official/nlp)
+- [BERT for TensorFlow v2](https://github.com/kpe/bert-for-tf2/tree/master/bert)
+
+### List of Interesting kernel
+- [Using Tensorflow 2.0 w/ Bert on NQ](https://www.kaggle.com/philculliton/using-tensorflow-2-0-w-bert-on-nq)
 
 ### Contributor
 - [김찬란](https://github.com/seriousran)
