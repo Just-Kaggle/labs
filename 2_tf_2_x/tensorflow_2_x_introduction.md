@@ -9,15 +9,11 @@
 
 ### TensorFlow와 Keras
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ba1c5745-e2f4-4dc6-9750-0eafd396340c/557EAC73-F154-495E-B434-6F904D21D2FF.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ba1c5745-e2f4-4dc6-9750-0eafd396340c/557EAC73-F154-495E-B434-6F904D21D2FF.png)
-
 - 분리된 keras보다는 내장된 tf.keras를 사용
 - Tf v1.10에서 tf.keras submodule이  처음 소개됨
 - Tf 2.0, Keras 2.3부터 서로 sync
 
 ### Tensorflow 2.0 ecosystem
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9130f6b5-ef39-4146-aaa1-f3bbc7c398af/keras_vs_tfdotkeras_ecosystem.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9130f6b5-ef39-4146-aaa1-f3bbc7c398af/keras_vs_tfdotkeras_ecosystem.png)
 
 ### 사용법
 
