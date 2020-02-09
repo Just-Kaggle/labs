@@ -2,6 +2,10 @@
 ### Purpose
 - 케글에서 아직 많이 공유되지 않은 TensorFlow 2.x에 집중하여, TensorFlow 2.x를 활용한 연구/개발이 활성화될 수 있도록 촉진합니다.
 
+### Ways to study
+1. TensorFlow 2.0 Question Answering에 공유된 커널 리뷰 (TF 2.x 기반 코드)
+2. Kaggle의 다른 Competition 혹은 Dataset에 대해서 TF 2.x로 개발하여 kernel(notebook)을 공유
+
 ### Competitions
 - [TensorFlow 2.0 Question Answering](https://www.kaggle.com/c/tensorflow2-question-answering)
   - TF 2.0 활성화를 위한 대회로, TF 2.0을 사용한 유저들의 성적을 따로 집계하여 Prizes를 줍니다.
