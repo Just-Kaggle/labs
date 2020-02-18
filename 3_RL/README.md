@@ -16,3 +16,5 @@
 ### Contributor
 - [김찬란](https://github.com/seriousran)
   - 3주차: Reinforcement Learning Chess 1 Policy Iteration 커널 필사
+- [문성채](https://github.com/powersht22)
+  - 4주차: Reinforcement Learning Chess 2 Model-free Methods 커널 필사
