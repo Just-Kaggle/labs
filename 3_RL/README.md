@@ -15,8 +15,8 @@
 
 ### Contributor
 - [김찬란](https://github.com/seriousran)
-  - 3주차: Reinforcement Learning Chess 1 Policy Iteration 커널 필사
+  - 3주차: [Reinforcement Learning Chess 1 Policy Iteration 커널 필사](Reinforcement_Learning_Chess_1_Policy_Iteration.ipynb)
+  - 5주차: [Agent_Trading 번역 - 전반적인 내용과 Turtle Trading](Agent_Trading.ipynb)
 - [문성채](https://github.com/powersht22)
-  - 4주차: Reinforcement Learning Chess 2 Model-free Methods 커널 필사
-- [문성채](https://github.com/powersht22)
-  - 5주차: Reinforcement Learning Chess 3 q_networks 커널 필사
+  - 4주차: [Reinforcement Learning Chess 2 Model-free Methods 커널 필사](Reinforcement_Learning_Chess_2_model_free_methods.ipynb)
+  - 5주차: [Reinforcement Learning Chess 3 q_networks 커널 필사](https://github.com/Just-Kaggle/labs/blob/master/3_RL/Reinforcement_Learning_Chess_3_q_networks.ipynb)
