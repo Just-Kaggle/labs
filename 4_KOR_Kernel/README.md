@@ -20,3 +20,5 @@
 - [김보배](https://github.com/KimDoubleB)
   - 3주차: [Data Preparation & Exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration) (Porto Seguro’s Safe Driver Prediction)
   - 4주차: [Simple Exploration Notebook - Zillow Prize](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize) (Zillow Prize: Zillow’s Home Value Prediction (Zestimate))
+- [김찬란](https://github.com/seriousran)
+  - 6주차: [NCAAW20 (finally) no-leak starter with LGB](https://www.kaggle.com/seriousran/ncaaw20-finally-no-leak-starter-with-lgb)
