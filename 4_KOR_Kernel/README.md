@@ -30,3 +30,4 @@
   - 6주차: [Introduction to Ensembling,Stacking in Python.ipynb](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20Introduction%20to%20Ensembling%2CStacking%20in%20Python.ipynb)
 - [이힘찬](https://github.com/ssilb4)
   - 6주차: [EDA To Prediction(DieTanic)](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D_EDA%20To%20Prediction(DieTanic).ipynb)
+  - 8주차: [Titanic Advanced Feature Engineering Tutorial](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D_Titanic_Advanced_Feature_Engineering_Tutorial.ipynb)
