@@ -21,6 +21,7 @@
   - 3주차: [Data Preparation & Exploration]([KOR]_Data_Preparation_&_Exploration.ipynb)
   - 4주차: [Simple Exploration Notebook - Zillow Prize]([KOR]_Simple_Exploration_Notebook_ZillowPrize.ipynb)
   - 5주차: [🕵️ IEEE Fraud Detection - First Look and EDA](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%F0%9F%95%B5%EF%B8%8F%20IEEE%20Fraud%20Detection%20-%20First%20Look%20and%20EDA.ipynb)
+  - 8주차: [XGB Fraud with Magic - 0.9600](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20XGB%20Fraud%20with%20Magic%20-%200.9600.ipynb)
 - [김찬란](https://github.com/seriousran)
   - 6주차: [NCAAW20 (finally) no-leak starter with LGB](https://www.kaggle.com/seriousran/ncaaw20-finally-no-leak-starter-with-lgb)
 - [신재영](https://github.com/jyshin0926)
@@ -29,3 +30,4 @@
   - 6주차: [Introduction to Ensembling,Stacking in Python.ipynb](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20Introduction%20to%20Ensembling%2CStacking%20in%20Python.ipynb)
 - [이힘찬](https://github.com/ssilb4)
   - 6주차: [EDA To Prediction(DieTanic)](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D_EDA%20To%20Prediction(DieTanic).ipynb)
+  - 8주차: [Titanic Advanced Feature Engineering Tutorial](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D_Titanic_Advanced_Feature_Engineering_Tutorial.ipynb)
