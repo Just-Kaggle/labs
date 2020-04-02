@@ -26,6 +26,8 @@
   - 6주차: [NCAAW20 (finally) no-leak starter with LGB](https://www.kaggle.com/seriousran/ncaaw20-finally-no-leak-starter-with-lgb)
 - [신재영](https://github.com/jyshin0926)
   - 6주차: [EDA To Prediction(DieTanic)](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/EDA%20To%20Prediction(DieTanic).ipynb)
+  - 9주차: [Titanic_Top_4_with_ensemble_modeling](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20Titanic_Top_4_with_ensemble_modeling.ipynb)
+  - 10주차: [Spooky NLP and Topic Modelling tutorial](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20Spooky%20NLP%20and%20Topic%20Modelling%20tutorial.ipynb)
 - [이리나](https://github.com/sandartchip)
   - 6주차: [Introduction to Ensembling,Stacking in Python.ipynb](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20Introduction%20to%20Ensembling%2CStacking%20in%20Python.ipynb)
 - [이힘찬](https://github.com/ssilb4)
