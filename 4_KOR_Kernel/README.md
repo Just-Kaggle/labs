@@ -21,13 +21,25 @@
   - IEEE Fraud Detection
     - [🕵️ IEEE Fraud Detection - First Look and EDA](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%F0%9F%95%B5%EF%B8%8F%20IEEE%20Fraud%20Detection%20-%20First%20Look%20and%20EDA.ipynb) by [김보배](https://github.com/KimDoubleB) 
     - [XGB Fraud with Magic - 0.9600](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20XGB%20Fraud%20with%20Magic%20-%200.9600.ipynb) by [김보배](https://github.com/KimDoubleB)
+  - Home Credit Default Risk
+    - [Introduction: Home Credit Default Risk Competition]([KOR]Start Here_ A Gentle Introduction.ipynb) by [송원빈](https://github.com/oneofSong)
+    - [Home Credit Default Risk](home_credit_default_risk.ipynb) by [온승태](https://github.com/smylere)
   - Zillow Prize: Zillow’s Home Value Prediction (Zestimate)
     - [Simple Exploration Notebook - Zillow Prize]([KOR]_Simple_Exploration_Notebook_ZillowPrize.ipynb) by [김보배](https://github.com/KimDoubleB)
   - Google Cloud & NCAA® ML Competition 2020-NCAAW
     - [NCAAW20 (finally) no-leak starter with LGB](https://www.kaggle.com/seriousran/ncaaw20-finally-no-leak-starter-with-lgb) by [김찬란](https://github.com/seriousran)
+  - M5 Forecasting - Accuracy
+    - [M5 Competition EDA models]([KOR]_m5-competition-eda-models.ipynb) by [이힘찬](https://github.com/ssilb4)
+  - Abstraction and Reasoning Challenge
+    - [Cellular Automata as a Language for Reasoning]([KOR]_cellular-automata-as-a-language-for-reasoning.ipynb) by [이힘찬](https://github.com/ssilb4)
 - Unstructured Data
-  - Spooky Author Identification
-    - [Spooky NLP and Topic Modelling tutorial](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20Spooky%20NLP%20and%20Topic%20Modelling%20tutorial.ipynb) by [신재영](https://github.com/jyshin0926)
+  - Time-series
+    - DJIA 30 Stock Time Series
+      - [Intro to Recurrent Neural Networks LSTM | GRU](kor_intro-to-recurrent-neural-networks-lstm-gru.ipynb) by [문성채](https://github.com/powersht22)
+      - [Everything You Can Do With A Time-series](kor_everything-you-can-do-with-a-time-series.ipynb) by [문성채](https://github.com/powersht22)
+  - Text(NLP)
+    - Spooky Author Identification
+      - [Spooky NLP and Topic Modelling tutorial](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20Spooky%20NLP%20and%20Topic%20Modelling%20tutorial.ipynb) by [신재영](https://github.com/jyshin0926)
 
 ### Contributor
 
