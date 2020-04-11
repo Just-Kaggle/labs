@@ -30,6 +30,7 @@
     - [NCAAW20 (finally) no-leak starter with LGB](https://www.kaggle.com/seriousran/ncaaw20-finally-no-leak-starter-with-lgb) by [김찬란](https://github.com/seriousran)
   - M5 Forecasting - Accuracy
     - [M5 Competition EDA models]([KOR]_m5-competition-eda-models.ipynb) by [이힘찬](https://github.com/ssilb4)
+    - [M5 Forecasting - Starter Data Exploration](kor_m5-forecasting-starter-data-exploration.ipynb) by [문성채](https://github.com/powersht22)
   - Abstraction and Reasoning Challenge
     - [Cellular Automata as a Language for Reasoning]([KOR]_cellular-automata-as-a-language-for-reasoning.ipynb) by [이힘찬](https://github.com/ssilb4)
 - Unstructured Data
