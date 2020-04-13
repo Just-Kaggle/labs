@@ -12,12 +12,13 @@
 ### Contents
 - Structured Data
   - Titanic: Machine Learning from Disaster
-    - [Data Preparation & Exploration]([KOR]_Data_Preparation_&_Exploration.ipynb) by [김보배](https://github.com/KimDoubleB)
     - [EDA To Prediction(DieTanic)](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D_EDA%20To%20Prediction(DieTanic).ipynb) by [이힘찬](https://github.com/ssilb4)
     - [EDA To Prediction(DieTanic)](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/EDA%20To%20Prediction(DieTanic).ipynb) by [신재영](https://github.com/jyshin0926)
     - [Titanic Advanced Feature Engineering Tutorial](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D_Titanic_Advanced_Feature_Engineering_Tutorial.ipynb) by [이힘찬](https://github.com/ssilb4)
     - [Titanic_Top_4_with_ensemble_modeling](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20Titanic_Top_4_with_ensemble_modeling.ipynb) by [신재영](https://github.com/jyshin0926)
     - [Introduction to Ensembling,Stacking in Python.ipynb](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20Introduction%20to%20Ensembling%2CStacking%20in%20Python.ipynb) by [이리나](https://github.com/sandartchip)
+  - Porto Seguro’s Safe Driver Prediction
+    - [Data Preparation & Exploration]([KOR]_Data_Preparation_&_Exploration.ipynb) by [김보배](https://github.com/KimDoubleB)
   - IEEE Fraud Detection
     - [🕵️ IEEE Fraud Detection - First Look and EDA](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%F0%9F%95%B5%EF%B8%8F%20IEEE%20Fraud%20Detection%20-%20First%20Look%20and%20EDA.ipynb) by [김보배](https://github.com/KimDoubleB) 
     - [XGB Fraud with Magic - 0.9600](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20XGB%20Fraud%20with%20Magic%20-%200.9600.ipynb) by [김보배](https://github.com/KimDoubleB)
