@@ -1,11 +1,7 @@
 ---
 title: "유사도 기반 추천모델 구현(cosine similarity example)"
 output:
-  html_notebook: 
-    toc: yes
-  html_document:
-    df_print: paged
-    keep_md : true
+  rmarkdown::github_document
 editor_options:
   chunk_output_type: inline
 ---
