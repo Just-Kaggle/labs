@@ -1,8 +1,11 @@
 ---
 title: "SVD(Singular Value Decomposition)분해 예제(easy)"
 output:
+  html_notebook: 
+    toc: yes
   html_document:
     df_print: paged
+    keep_md : true
 editor_options:
   chunk_output_type: inline
 ---

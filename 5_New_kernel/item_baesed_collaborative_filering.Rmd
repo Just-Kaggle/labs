@@ -1,6 +1,13 @@
 ---
 title: "유사도 기반 추천모델 구현(cosine similarity example)"
-output: html_notebook
+output:
+  html_notebook: 
+    toc: yes
+  html_document:
+    df_print: paged
+    keep_md : true
+editor_options:
+  chunk_output_type: inline
 ---
 ![Image name](https://greeksharifa.github.io/public/img/Machine_Learning/2019-12-17-Recommendation%20System/01.JPG)
 
