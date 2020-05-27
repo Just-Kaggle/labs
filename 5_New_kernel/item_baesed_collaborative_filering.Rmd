@@ -1,0 +1,76 @@
+---
+title: "유사도 기반 추천모델 구현(cosine similarity example)"
+output: html_notebook
+---
+![Image name](https://greeksharifa.github.io/public/img/Machine_Learning/2019-12-17-Recommendation%20System/01.JPG)
+
+
+
+```{r}
+library(lsa)
+library(reshape2)
+```
+
+데이터셋 구성
+```{r}
+movieRating = matrix(c(
+    1,1,1,0,0,
+    3,3,3,0,0,
+    4,4,4,0,0,
+    5,5,5,0,0,
+    0,0,0,4,4,
+    0,0,0,5,5,
+    0,0,0,2,2), byrow = T, nrow=7)
+
+```
+```{r}
+rownames(movieRating) = c('u1','u2','u3','u4','u5','u6','u7')
+colnames(movieRating) = c('starwars','avatar','Planet of the Apes','ghost','titanic')
+```
+
+```{r}
+movieRating
+```
+
+```{r}
+movieRating[is.na(movieRating)] = 0
+```
+[cosine Similarity](https://ko.wikipedia.org/wiki/%EC%BD%94%EC%82%AC%EC%9D%B8_%EC%9C%A0%EC%82%AC%EB%8F%84)
+![cosine similarity concept](https://wikidocs.net/images/page/24603/%EC%BD%94%EC%82%AC%EC%9D%B8%EC%9C%A0%EC%82%AC%EB%8F%84.PNG)
+```{r}
+
+```
+
+![코사인 유사도 적용방법론](http://euriion.com/wp-content/uploads/2014/09/200px-Dot_Product.svg_.png)
+```{r}
+
+```
+두벡터의 사잇각을 구해 유사도를 구하는 개념
+
+적용예제
+```{r}
+vec1 = c(1,2,3)
+vec2 = c(1,2,2)
+vec3 = c(-1,-2,4)
+```
+
+두 벡터의 '방향'이 비슷하면 코사인 유사도의 값이 1에 수렴한다
+```{r}
+cosine(vec1,vec2)
+```
+
+두 벡터의 '방향'이 다르면 유사도의 값이 1에서 멀어진다
+```{r}
+cosine(vec1,vec3)
+```
+
+movieRating데이터를 대상으로 코사인유사도 계산
+```{r}
+item_cf = cosine(as.matrix(movieRating[,c(1:5)]))
+```
+
+코사인 유사도 기준으로 '비슷한 방향'으로 진행되는 데이터는 유사도가 높게 나오지만
+그렇지 않을 경우 상관없음(유사도 0)으로 계산
+```{r}
+print(item_cf)
+```

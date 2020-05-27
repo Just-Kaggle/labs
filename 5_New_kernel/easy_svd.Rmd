@@ -1,0 +1,120 @@
+---
+title: "SVD(Singular Value Decomposition)분해 예제(easy)"
+output:
+  html_document:
+    df_print: paged
+editor_options:
+  chunk_output_type: inline
+---
+![Image name](https://greeksharifa.github.io/public/img/Machine_Learning/2019-12-17-Recommendation%20System/01.JPG)
+
+
+# 행렬분해(matrix factirization)
+
+목표행렬(R)에 대하여 임의 다른 행렬간 곱을 통해 목표행렬의 근사값을 유도 및 계산하는데 목적을 가지고 있음. 행렬 분해의 주 용도는 행렬 계산 자체의 최적화, 또는 목표 행렬의 특정 구조(속성)을 파악하는데 사용되며 추천 프로세스에서 적용시, 고객(행)과 상품(열)에 대한 임의의 행렬 구조에서 상품에 대한 선호 속성을 파악하는 목적으로 주요 사용됨
+
+데이터셋 구성
+```{r}
+movieRating = matrix(c(
+    1,1,1,0,0,
+    3,3,3,0,0,
+    4,4,4,0,0,
+    5,5,5,0,0,
+    0,0,0,4,4,
+    0,0,0,5,5,
+    0,0,0,2,2), byrow = T, nrow=7)
+
+```
+
+```{r}
+rownames(movieRating) = c('u1','u2','u3','u4','u5','u6','u7')
+colnames(movieRating) = c('starwars','avatar','Planet of the Apes','ghost','titanic')
+```
+
+```{r}
+movieRating
+```
+
+```{r}
+movieRating_svd = svd(movieRating)
+```
+
+
+```{r}
+movieRating_svd
+```
+
+```{r}
+D = diag(movieRating_svd$d[1:2])
+```
+
+```{r}
+D
+```
+
+```{r}
+U = movieRating_svd$u[1:7,1:2]
+```
+
+```{r}
+U
+```
+
+```{r}
+V = movieRating_svd$v[1:5,1:2]
+```
+```{r}
+V
+```
+
+## 최초 데이터 재구성
+```{r}
+(U%*%D%*%t(V))
+```
+
+## 사용자간 유사도
+```{r}
+cor(t(movieRating))
+```
+
+```{r}
+cor(t(U%*%D%*%t(V)))
+```
+
+
+
+원본 데이터를 이용한 아이템 간 유사도
+```{r}
+cor(movieRating)
+```
+
+SVD를 수행한 결과 데이터를 이용한 아이템 간 유사도
+```{r}
+cor(U%*%D%*%t(V))
+```
+
+UxD
+
+```{r}
+(U%*%D)
+```
+
+
+
+UxD 유사도
+```{r}
+(cor(t(U%*%D)))
+```
+
+
+DXVt
+```{r}
+(D%*%t(V))
+```
+
+
+
+DXVt 유사도
+```{r}
+(cor(D%*%t(V)))
+```
