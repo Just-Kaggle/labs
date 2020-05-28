@@ -23,7 +23,7 @@
     - [🕵️ IEEE Fraud Detection - First Look and EDA](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%F0%9F%95%B5%EF%B8%8F%20IEEE%20Fraud%20Detection%20-%20First%20Look%20and%20EDA.ipynb) by [김보배](https://github.com/KimDoubleB) 
     - [XGB Fraud with Magic - 0.9600](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20XGB%20Fraud%20with%20Magic%20-%200.9600.ipynb) by [김보배](https://github.com/KimDoubleB)
   - Home Credit Default Risk
-    - [Introduction: Home Credit Default Risk Competition]([KOR]Start Here_ A Gentle Introduction.ipynb) by [송원빈](https://github.com/oneofSong)
+    - [Start Here_ A Gentle Introduction](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5DStart%20Here_%20A%20Gentle%20Introduction.ipynb) by [송원빈](https://github.com/oneofSong)
     - [Home Credit Default Risk](home_credit_default_risk.ipynb) by [온승태](https://github.com/smylere)
   - Zillow Prize: Zillow’s Home Value Prediction (Zestimate)
     - [Simple Exploration Notebook - Zillow Prize]([KOR]_Simple_Exploration_Notebook_ZillowPrize.ipynb) by [김보배](https://github.com/KimDoubleB)
