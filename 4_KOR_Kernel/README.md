@@ -25,6 +25,7 @@
   - Home Credit Default Risk
     - [Start Here_ A Gentle Introduction](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5DStart%20Here_%20A%20Gentle%20Introduction.ipynb) by [송원빈](https://github.com/oneofSong)
     - [Home Credit Default Risk](home_credit_default_risk.ipynb) by [온승태](https://github.com/smylere)
+    - [Introduction - Manual Feature Engineering](https://github.com/Just-Kaggle/labs/blob/master/4_KOR_Kernel/%5BKOR%5D%20Introduction%20-%20Manual%20Feature%20Engineering.ipynb) by [송원빈](https://github.com/oneofSong)
   - Zillow Prize: Zillow’s Home Value Prediction (Zestimate)
     - [Simple Exploration Notebook - Zillow Prize]([KOR]_Simple_Exploration_Notebook_ZillowPrize.ipynb) by [김보배](https://github.com/KimDoubleB)
   - Google Cloud & NCAA® ML Competition 2020-NCAAW
