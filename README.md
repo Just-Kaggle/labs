@@ -42,6 +42,6 @@ seriousran@gmail.com로 연락주시면 감사드리겠습니다 :)
 |    |  [신민용](https://github.com/minyong-shin)    |    |   |   |
 |    |  [김보배](https://github.com/KimDoubleB)    |    |   |   |
 |    |  [온승태](https://github.com/smylere)    |     |   |   |
-|    |  [신재영](https://github.com/jyshin0926)    |    |   |   |
+|    |  [신재영](https://github.com/jyshin0926)    |    |[\[커널번역\] EDA To Prediction(DieTanic)](https://github.com/Just-Kaggle/labs/blob/master/1_part/4_06_Kg_EDA%20To%20Prediction(DieTanic)_2.ipynb) <br/> [\[커널번역\] Titanic Top4 with ensemble modeling](https://github.com/Just-Kaggle/labs/blob/master/1_part/4_09_Kg_Titanic_Top_4_with_ensemble_modeling.ipynb) <br/> [\[커널번역\] Beginner's Tutorial Python for NLP](https://github.com/Just-Kaggle/labs/blob/master/1_part/4_10_Kg_KOR_Beginner's_Tutorial_Python.ipynb) <br/> [\[커널번역\] Spooky NLP and Topic Modeling Tutorial](https://github.com/Just-Kaggle/labs/blob/master/1_part/4_10_Kg_Spooky%20NLP%20and%20Topic%20Modelling%20tutorial.ipynb) <br/> |   |
 |    |  [송원빈](https://github.com/oneofSong)    |    |   |   |
 |    |  [이리나](https://github.com/sandartchip)    |    |   |   |
